@@ -5,13 +5,18 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "arxiv>=3.0.0",
     "chromadb>=1.5.8",
+    "ddgs>=9.14.2",
     "dotenv>=0.9.9",
     "google>=3.0.0",
     "google-genai>=1.74.0",
     "groq<1",
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.18",
     "langchain-community>=0.4.1",
     "langchain-google-genai>=4.2.2",
     "langchain-groq",
     "pypdf>=6.10.2",
+    "wikipedia>=1.4.0",
 ]
