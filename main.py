@@ -1,5 +1,5 @@
 def main():
-    print("Hello from ai-fundamentals-class!")
+    print("Look into the LLM folder")
 
 
 if __name__ == "__main__":
